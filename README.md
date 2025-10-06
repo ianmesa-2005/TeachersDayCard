@@ -21,4 +21,4 @@ The card also includes floating decorations, sparkles, and is responsive on both
 
 1. **Download or Clone**
    ```bash
-   git clone https://github.com/ianmesa-2005/teachers-day-card.git
+   git clone https://github.com/ianmesa-2005/TeachersDayCard.git
